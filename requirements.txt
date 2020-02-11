@@ -36,7 +36,7 @@ DBcm==1.7.1
 decorator==4.1.2
 distributed==1.19.1
 dj-database-url==0.4.2
-Django==1.11.4
+Django==1.11.28
 django-widget-tweaks==1.4.1
 docutils==0.14
 entrypoints==0.2.3

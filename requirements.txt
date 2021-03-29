@@ -121,7 +121,7 @@ pycrypto==2.6.1
 pycurl==7.43.0
 pyenchant==1.6.11
 pyflakes==1.6.0
-Pygments==2.2.0
+Pygments==2.7.4
 pylint==1.7.4
 pymongo==3.4.0
 pyodbc==4.0.17

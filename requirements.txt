@@ -34,7 +34,7 @@ dask==0.15.3
 datashape==0.5.4
 DBcm==1.7.1
 decorator==4.1.2
-distributed==1.19.1
+distributed==2021.10.0
 dj-database-url==0.4.2
 Django==1.11.4
 django-widget-tweaks==1.4.1
